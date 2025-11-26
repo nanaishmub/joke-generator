@@ -27,7 +27,7 @@ span {
 }
 
 #joke{
-    padding: 20px;
+    /* padding: 20px; */
     text-align: center;
     color: white;
     font-size: 12px;
